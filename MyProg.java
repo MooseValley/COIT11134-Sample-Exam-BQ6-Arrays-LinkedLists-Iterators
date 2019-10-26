@@ -1,12 +1,4 @@
-# COIT11134 - Sample Exam - BQ6 - Arrays, LinkedLists, Iterators
-
-## Question 6	5 MARKS
-
-Assume that the following program compiles and runs without any errors. What is the output produced by this program.
-
-The third ‘for’ loop has to be rewritten by using an iterator.  The iterator should iterate through the teamList object, retrieve the data from teamList and display the retrieved data on screen.
-
-```
+// Practice Exam question solution by Mike OMalley.
 import java.util.LinkedList;
 
 public class MyProg
@@ -39,4 +31,3 @@ public class MyProg
    }
 
 }//end of class definition
-```
