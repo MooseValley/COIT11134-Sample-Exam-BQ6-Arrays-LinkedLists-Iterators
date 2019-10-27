@@ -1,6 +1,6 @@
 # COIT11134 - Sample Exam - BQ6 - Arrays, LinkedLists, Iterators
 
-## Question 6	5 MARKS
+## Question 6	(5 MARKS)
 
 Assume that the following program compiles and runs without any errors. What is the output produced by this program.
 
